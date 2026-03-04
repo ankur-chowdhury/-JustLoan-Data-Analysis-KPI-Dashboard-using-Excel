@@ -69,7 +69,6 @@ The dashboard enables real-time filtering and structured insight generation for 
 - Microsoft Excel
 - Pivot Tables
 - Data Cleaning & Transformation
-- Advanced Formulas (IF, SUMIFS, XLOOKUP/VLOOKUP)
 - Conditional Formatting
 - Data Visualization & Dashboard Design
 
